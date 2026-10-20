@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.0",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.0.0.zip",
-  "Sha256": "A9D474A533358ED8017227B316E4864412779CCAB59D16954345698CF047F48E",
-  "Notes": "Erste Version von TuneRig."
+  "Version": "1.0.1",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.0.1.zip",
+  "Sha256": "B16A0B6100F66696790A48C0EB9E533EDFFB524D360A4EF3D0C8B919154C3ACA",
+  "Notes": "Netzwerkadapter-Energiesparen lässt sich jetzt zuverlässig ausschalten. Das Teilen von Windows-Updates wird vollständig deaktiviert statt nur auf das Heimnetz beschränkt."
 }
