@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.1",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.0.1.zip",
-  "Sha256": "B16A0B6100F66696790A48C0EB9E533EDFFB524D360A4EF3D0C8B919154C3ACA",
-  "Notes": "Netzwerkadapter-Energiesparen lässt sich jetzt zuverlässig ausschalten. Das Teilen von Windows-Updates wird vollständig deaktiviert statt nur auf das Heimnetz beschränkt."
+  "Version": "1.1.0",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.1.0.zip",
+  "Sha256": "0970289C82E910CB1B3DCD682061D7A7850DC3456E4BA43870346CB0DAB0D137",
+  "Notes": "Neu: Die Checks heißen jetzt Regulärer Check, Performance Boost und Overdrive und stehen alle oben in der Leiste. Overdrive geht in 3 Stufen über die sicheren Empfehlungen hinaus – nur auf eigenes Risiko und jederzeit zurücksetzbar."
 }
