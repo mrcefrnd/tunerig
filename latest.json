@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.1",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.1.1.zip",
-  "Sha256": "902F26F92143774F89D17AE9358AE3289B1709F3DFDF27D8E7E216F181137695",
-  "Notes": "Alle drei Checks haben jetzt ihr Symbol in der oberen Leiste. Overdrive ist klar als Übertakten und Tuning gekennzeichnet und zeigt die Anleitung zum Übertakten von CPU, GPU und RAM direkt an. Überlappende Beschriftung auf der Startseite behoben."
+  "Version": "1.1.2",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.1.2.zip",
+  "Sha256": "4C4B1E4AA41C4459B3878746E65DE477D412800815135EC1BBA31E3A1FDE882E",
+  "Notes": "Startseite: alle drei Checks sind jetzt gleichwertig dargestellt und haben eine eigene Kennfarbe. Die Buttons zeigen mit einem Pfeil, dass es zum Check geht."
 }
