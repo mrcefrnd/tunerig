@@ -4,7 +4,7 @@ TuneRig findet, was deinen Windows-PC bremst, und behebt es – nur mit deiner Z
 
 ## Download
 
-**[TuneRig-Setup-1.1.0.exe herunterladen](https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-Setup-1.1.0.exe)**
+**[TuneRig-Setup-1.1.1.exe herunterladen](https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-Setup-1.1.1.exe)**
 
 Doppelklick, Zielordner bestätigen, fertig. Keine Administratorrechte für die Installation nötig.
 Windows 10 und 11. Beim ersten Start warnt Windows SmartScreen, weil die Datei nicht digital
@@ -14,7 +14,7 @@ signiert ist: »Weitere Informationen« → »Trotzdem ausführen«.
 
 - **Regulärer Check** – prüft und verbessert jeden PC Schritt für Schritt.
 - **Performance Boost** – deutlich mehr Leistung für Spiele, nur mit bewährten Einstellungen.
-- **Overdrive** – geht in 3 Stufen über die sicheren Empfehlungen hinaus. Nur auf eigenes Risiko; jede Änderung lässt sich zurücksetzen.
+- **Overdrive** – Übertakten und Tuning: geht in 3 Stufen über die sicheren Empfehlungen hinaus. Nur auf eigenes Risiko; jede Änderung lässt sich zurücksetzen.
 
 ## Updates
 
