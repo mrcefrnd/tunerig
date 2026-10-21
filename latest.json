@@ -1,6 +1,6 @@
 {
-  "Version": "1.2.0",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.2.0.zip",
-  "Sha256": "D36147E7A87679A1C9A47E6A483538BA41BF7713ADB484ED9F044745CC09BDDA",
-  "Notes": "Neu: Speicherplatz-Analyse unter Alle Werkzeuge > Speicherplatz. Zeigt nach Ordnern, Platzfressern, Dateitypen und größten Dateien, was deine Laufwerke belegt."
+  "Version": "1.3.0",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.0.zip",
+  "Sha256": "5C31921933A670F172C9DF3DBB9BC55DAE9338ED49AB589616A406D0966D7C71",
+  "Notes": "Speicherplatz: neue Rangliste »Was du löschen kannst« mit Spielen (inkl. zuletzt gespielt), Programmen, Ordnern und Dateien – jeweils mit Deinstallieren bzw. Papierkorb. Dazu bessere Darstellung bei kleinen Fenstern und Bildschirmen."
 }
