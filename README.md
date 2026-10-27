@@ -4,7 +4,7 @@ TuneRig findet, was deinen Windows-PC bremst, und behebt es – nur mit deiner Z
 
 ## Download
 
-**[TuneRig-Setup-1.3.5.exe herunterladen](https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-Setup-1.3.5.exe)**
+**[TuneRig-Setup-1.4.0.exe herunterladen](https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-Setup-1.4.0.exe)**
 
 Doppelklick, Zielordner bestätigen, fertig. Keine Administratorrechte für die Installation nötig.
 Windows 10 und 11. Beim ersten Start warnt Windows SmartScreen, weil die Datei nicht digital

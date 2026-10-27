@@ -1,6 +1,6 @@
 {
-  "Version": "1.3.5",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.5.zip",
-  "Sha256": "39C2DFF8CD0355849BC21FB37898A826C8342D8B01E1203B1066194DF881C0A9",
-  "Notes": "Deinstallation: Jeder gefundene Rest zeigt jetzt, ob er nachweislich zum Programm gehört – mit Beleg. Vorausgewählt ist nur, was belegt ist. Neu: »Speicherort öffnen« (auch per Doppelklick) für Ordner, Dateien und Registry-Einträge."
+  "Version": "1.4.0",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.4.0.zip",
+  "Sha256": "7DD020E4085F3A581A2B6010C81CFC757D1EE70880457582C713EE5BFC973290",
+  "Notes": "Deinstallation neu: TuneRig liest vor der Deinstallation aus, was nachweislich zum Programm gehört (Windows-Eintrag, Windows Installer, Verknüpfungen, Dienste, Aufgaben, Dateitypen, Firewall-Regeln, Herstellerschlüssel, Datenordner mit Signatur oder Programmpfad). Angezeigt werden nur noch diese Reste – nie ähnliche Namen."
 }
