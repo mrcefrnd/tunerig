@@ -1,6 +1,6 @@
 {
-  "Version": "1.3.3",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.3.zip",
-  "Sha256": "8C99CC8D73B7D4056740AB01127515A5AF66D14A32997845348656028D810857",
-  "Notes": "Deinstallation: Die Restesuche findet deutlich mehr Reste (z. B. auch in Hersteller-Ordnern und geplanten Aufgaben), erkennt abgebrochene Deinstallationen und lässt sich mit »Erneut nach Resten suchen« wiederholen."
+  "Version": "1.3.4",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.4.zip",
+  "Sha256": "7980F8702D1FA6183EC7A3CDB1C35C79EB41AED78BCE79F3E4D08AD86BC8434C",
+  "Notes": "Deinstallation: Ausgewählte Programme sind jetzt deutlich markiert. Reste werden gründlicher gelöscht (Schreibschutz, fehlende Rechte, lange Pfade, laufende Programmteile, Dienste) und nicht entfernbare Einträge bleiben mit Grund in der Liste."
 }
