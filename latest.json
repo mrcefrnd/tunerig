@@ -1,6 +1,6 @@
 {
-  "Version": "1.3.4",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.4.zip",
-  "Sha256": "7980F8702D1FA6183EC7A3CDB1C35C79EB41AED78BCE79F3E4D08AD86BC8434C",
-  "Notes": "Deinstallation: Ausgewählte Programme sind jetzt deutlich markiert. Reste werden gründlicher gelöscht (Schreibschutz, fehlende Rechte, lange Pfade, laufende Programmteile, Dienste) und nicht entfernbare Einträge bleiben mit Grund in der Liste."
+  "Version": "1.3.5",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.5.zip",
+  "Sha256": "39C2DFF8CD0355849BC21FB37898A826C8342D8B01E1203B1066194DF881C0A9",
+  "Notes": "Deinstallation: Jeder gefundene Rest zeigt jetzt, ob er nachweislich zum Programm gehört – mit Beleg. Vorausgewählt ist nur, was belegt ist. Neu: »Speicherort öffnen« (auch per Doppelklick) für Ordner, Dateien und Registry-Einträge."
 }
