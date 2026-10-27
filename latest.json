@@ -1,6 +1,6 @@
 {
-  "Version": "1.3.1",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.1.zip",
-  "Sha256": "F977C036C227641D340C82195B62DA2DC2F8925146384C5A8C453225FB2BBE1E",
-  "Notes": "Behebt einen Fehler, durch den TuneRig 1.3.0 nicht starten konnte."
+  "Version": "1.3.3",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.3.3.zip",
+  "Sha256": "8C99CC8D73B7D4056740AB01127515A5AF66D14A32997845348656028D810857",
+  "Notes": "Deinstallation: Die Restesuche findet deutlich mehr Reste (z. B. auch in Hersteller-Ordnern und geplanten Aufgaben), erkennt abgebrochene Deinstallationen und lässt sich mit »Erneut nach Resten suchen« wiederholen."
 }
