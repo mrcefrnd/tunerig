@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.1",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.1.zip",
-  "Sha256": "3BD116B4B61E49C5750CB22540837CADB27BC50F1BA4316E228873B15917C41B",
-  "Notes": "Neu: eigener Reiter »Reste« unter Alle Werkzeuge – sucht Reste nicht mehr installierter Programme und Spiele und entfernt sie auf Wunsch."
+  "Version": "1.5.2",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.2.zip",
+  "Sha256": "C3EEA0B36318AE7E045FBA0AD2E0B167E56F6540AE62B23EA7CDFDD49FB148FB",
+  "Notes": "Mehr Sicherheit bei Resten: Gegenprüfung direkt vor dem Löschen, Windows-Bestandteile werden nie angetastet, 32-Bit-Pfade und gemeinsam genutzte Komponenten werden korrekt erkannt, und vor dem Löschen wird ein Wiederherstellungspunkt erstellt."
 }
