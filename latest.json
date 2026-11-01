@@ -1,6 +1,6 @@
 {
-  "Version": "1.6.1",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.1.zip",
-  "Sha256": "8F60895BE677EF0F999336C632BF847A77A210D0E7519BCFD95C868E3E7DBC6E",
-  "Notes": "Grafikkarten jetzt unter Leistung › Grafikkarten & Spiele (zusammen mit der Grafikkarte pro Spiel). Die Übersicht analysiert beim ersten Öffnen automatisch."
+  "Version": "1.6.2",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.2.zip",
+  "Sha256": "EE8A1F85458B4E0D2816CC80D79112BFA57C0834B42499BB5EFC8CF0588361EC",
+  "Notes": "Leistung › Verwendete Grafikkarte: Spieleliste bekommt den Platz, Grafikkarten aufklappbar, Anzahl und Scroll-Hinweis. Sichtbare Bildlaufleisten in allen Listen. Programme: Programmliste nutzt den ganzen Platz, solange es keine Reste gibt."
 }
