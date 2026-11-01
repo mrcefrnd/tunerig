@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.2",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.2.zip",
-  "Sha256": "C3EEA0B36318AE7E045FBA0AD2E0B167E56F6540AE62B23EA7CDFDD49FB148FB",
-  "Notes": "Mehr Sicherheit bei Resten: Gegenprüfung direkt vor dem Löschen, Windows-Bestandteile werden nie angetastet, 32-Bit-Pfade und gemeinsam genutzte Komponenten werden korrekt erkannt, und vor dem Löschen wird ein Wiederherstellungspunkt erstellt."
+  "Version": "1.5.3",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.3.zip",
+  "Sha256": "7518334F107154F1780A4D7BCC870519248B2EE4D8EE653A788B72FF7D4EAD13",
+  "Notes": "Reste-Suche: Einträge gelten nur noch als verwaist, wenn das ganze Programm entfernt ist – nicht schon, wenn sich nach einem Update der Versionsordner geändert hat (z. B. Google Drive, Discord). Dienste, von denen andere abhängen, werden nie angefasst."
 }
