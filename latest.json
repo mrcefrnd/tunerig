@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.0",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.0.zip",
-  "Sha256": "22CC7609BF6434CBC3A341CB66BF23A07C9C8D7CEE0659412BBEE7495A5F8D50",
-  "Notes": "Neu: »Reste alter Programme suchen« findet nachweisbare Reste von Programmen und Spielen, die nicht mehr installiert sind – auf allen Laufwerken, inklusive Registry, Verknüpfungen, Diensten, Steam-, Epic- und GOG-Bibliotheken."
+  "Version": "1.5.1",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.1.zip",
+  "Sha256": "3BD116B4B61E49C5750CB22540837CADB27BC50F1BA4316E228873B15917C41B",
+  "Notes": "Neu: eigener Reiter »Reste« unter Alle Werkzeuge – sucht Reste nicht mehr installierter Programme und Spiele und entfernt sie auf Wunsch."
 }
