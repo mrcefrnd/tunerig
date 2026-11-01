@@ -1,6 +1,6 @@
 {
-  "Version": "1.6.0",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.0.zip",
-  "Sha256": "420DB9BA94B593139E4CC9AA0835F5B9A3544605CDF0A61EA3E4A86BBC895F46",
-  "Notes": "Übersichtlicher: 6 statt 9 Reiter. Treiber & Updates, Leistung (alle Einstellungen in einer Liste, dazu Spiele und Autostart), Speicherplatz (Aufräumen und Junk in einer Liste, Laufwerk analysieren), Programme (Deinstallation und Reste mit einer Reste-Liste), Overdrive als eigener Reiter. Zurücksetzen stellt jetzt den früheren Wert wieder her, Energiesparplan wird in der richtigen Reihenfolge gesetzt, Speicher-Integrität und VBS werden gemeinsam berücksichtigt, ein Löschablauf für alle Listen."
+  "Version": "1.6.1",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.1.zip",
+  "Sha256": "8F60895BE677EF0F999336C632BF847A77A210D0E7519BCFD95C868E3E7DBC6E",
+  "Notes": "Grafikkarten jetzt unter Leistung › Grafikkarten & Spiele (zusammen mit der Grafikkarte pro Spiel). Die Übersicht analysiert beim ersten Öffnen automatisch."
 }
