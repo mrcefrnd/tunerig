@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.4",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.4.zip",
-  "Sha256": "54C20B34F1EDB2A36C7BF3234D88A112A7D0A9476EE313B4797A0B8150C740F8",
-  "Notes": "Reste-Suche noch strenger: Ordner und Registry-Schlüssel brauchen zusätzlich zum Beleg den passenden Programmnamen, Herstellersignatur allein zählt nicht mehr, Verweise auf andere installierte oder laufende Programme schließen aus, eigene Dateien und kürzlich benutzte Ordner werden nie vorausgewählt, Dienste nur wenn gestoppt und von nichts abhängig, Windows-eigene Startmenü-Ordner, COM-Handler und Firewall-Regeln bleiben unangetastet."
+  "Version": "1.5.5",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.5.zip",
+  "Sha256": "CEB304FC8935ACE9765EE3425EBCF295A37DE31E452068C9D19AAE17E5F876B2",
+  "Notes": "Systemordner-Schutz: leere Ordner mit allgemeinen Namen (Temp, Data, Cache ...), Ordner von Windows-Diensten oder mit eigenen Berechtigungen werden nie mehr angeboten. Neue Gegenprüfung über die ganze Registry: Was noch irgendwo erwähnt wird, bleibt stehen."
 }
