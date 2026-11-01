@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.5",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.5.zip",
-  "Sha256": "CEB304FC8935ACE9765EE3425EBCF295A37DE31E452068C9D19AAE17E5F876B2",
-  "Notes": "Systemordner-Schutz: leere Ordner mit allgemeinen Namen (Temp, Data, Cache ...), Ordner von Windows-Diensten oder mit eigenen Berechtigungen werden nie mehr angeboten. Neue Gegenprüfung über die ganze Registry: Was noch irgendwo erwähnt wird, bleibt stehen."
+  "Version": "1.5.6",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.6.zip",
+  "Sha256": "1E9A2D4EC8FB9BB5C6DC1389A546C3CC654E8558F5E398D43A3048F9EA8F9B7E",
+  "Notes": "Sicherungen: TuneRig fragt vor Änderungen, ob gesichert werden soll (Wahl merkbar). Neuer Bereich »Sicherungen« zum Löschen von Wiederherstellungspunkten und Dateisicherungen. Gesperrte Dateien und Registry-Schlüssel werden mit Administrator-Sonderrechten gelöscht; geöffnete Dateien nennen das sperrende Programm."
 }
