@@ -1,6 +1,6 @@
 {
-  "Version": "1.4.0",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.4.0.zip",
-  "Sha256": "7DD020E4085F3A581A2B6010C81CFC757D1EE70880457582C713EE5BFC973290",
-  "Notes": "Deinstallation neu: TuneRig liest vor der Deinstallation aus, was nachweislich zum Programm gehört (Windows-Eintrag, Windows Installer, Verknüpfungen, Dienste, Aufgaben, Dateitypen, Firewall-Regeln, Herstellerschlüssel, Datenordner mit Signatur oder Programmpfad). Angezeigt werden nur noch diese Reste – nie ähnliche Namen."
+  "Version": "1.5.0",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.5.0.zip",
+  "Sha256": "22CC7609BF6434CBC3A341CB66BF23A07C9C8D7CEE0659412BBEE7495A5F8D50",
+  "Notes": "Neu: »Reste alter Programme suchen« findet nachweisbare Reste von Programmen und Spielen, die nicht mehr installiert sind – auf allen Laufwerken, inklusive Registry, Verknüpfungen, Diensten, Steam-, Epic- und GOG-Bibliotheken."
 }
