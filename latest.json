@@ -1,6 +1,6 @@
 {
-  "Version": "1.7.0",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.7.0.zip",
-  "Sha256": "C89B1B1F025BB9C4E345E4B561647D3DB2C8C43EC935050B44699FDB2BA5D835",
-  "Notes": "Reste: Prüfprotokoll für jeden Eintrag (»Prüfschritte«) und eine neue, umfassende Gegenprüfung – Registry aller Benutzerkonten, Windows Installer, gemeinsam genutzte DLLs, Windows-Dateischutz, geladene und geöffnete Dateien, Treiber, neun Spiele-Launcher, Einstellungsdateien, DLL-Importe, Nutzungsspuren und Ereignisprotokoll. Was noch gebraucht wird, steht mit Grund unter »Zurückgehalten«."
+  "Version": "1.8.0",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.8.0.zip",
+  "Sha256": "B896B433D6C069F04B65F01B0086E2A58990819EA53932244BAFD3D7B9409E75",
+  "Notes": "Reste alter Programme: 19 neue Quellen – Kontextmenüs, Shell-Erweiterungen, Typbibliotheken, »Öffnen mit«, Ereignisprotokoll-Quellen, Kompatibilitätseinstellungen, PATH, Defender-Ausnahmen, Programmeinstellungen, andere Benutzerkonten, weitere Launcher, Store-App-Daten, Launcher-Caches, Installer-Dateien, Paket-Cache, alte Treiberpakete, Absturzberichte, Aufgaben-Dateien und mehr. Jeder Fund mit Beleg, Prüfprotokoll und Gegenprüfung."
 }
