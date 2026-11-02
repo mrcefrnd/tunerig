@@ -1,6 +1,6 @@
 {
-  "Version": "1.6.4",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.4.zip",
-  "Sha256": "2568365FF809B91AA5E5F0FE86BD22189E3259FC2075D73FDB6B8E6EE5388A1B",
-  "Notes": "Reste alter Programme: Leere Ordner werden nicht mehr als Rest angeboten – leer heißt nicht ungenutzt. Ordner erscheinen nur noch mit Beleg."
+  "Version": "1.7.0",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.7.0.zip",
+  "Sha256": "C89B1B1F025BB9C4E345E4B561647D3DB2C8C43EC935050B44699FDB2BA5D835",
+  "Notes": "Reste: Prüfprotokoll für jeden Eintrag (»Prüfschritte«) und eine neue, umfassende Gegenprüfung – Registry aller Benutzerkonten, Windows Installer, gemeinsam genutzte DLLs, Windows-Dateischutz, geladene und geöffnete Dateien, Treiber, neun Spiele-Launcher, Einstellungsdateien, DLL-Importe, Nutzungsspuren und Ereignisprotokoll. Was noch gebraucht wird, steht mit Grund unter »Zurückgehalten«."
 }
