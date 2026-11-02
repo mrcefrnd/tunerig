@@ -1,6 +1,6 @@
 {
-  "Version": "1.6.3",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.3.zip",
-  "Sha256": "F24483B6794433AC7CDD4A595BD6A7EB6C3A3F579AC580DC1A40EF1A7AC4E7BE",
-  "Notes": "Behebt den Startfehler »Der Wert darf nicht NULL sein (element)« aus Version 1.6.2."
+  "Version": "1.6.4",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.4.zip",
+  "Sha256": "2568365FF809B91AA5E5F0FE86BD22189E3259FC2075D73FDB6B8E6EE5388A1B",
+  "Notes": "Reste alter Programme: Leere Ordner werden nicht mehr als Rest angeboten – leer heißt nicht ungenutzt. Ordner erscheinen nur noch mit Beleg."
 }
