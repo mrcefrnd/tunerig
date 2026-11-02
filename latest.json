@@ -1,6 +1,6 @@
 {
-  "Version": "1.6.2",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.2.zip",
-  "Sha256": "EE8A1F85458B4E0D2816CC80D79112BFA57C0834B42499BB5EFC8CF0588361EC",
-  "Notes": "Leistung › Verwendete Grafikkarte: Spieleliste bekommt den Platz, Grafikkarten aufklappbar, Anzahl und Scroll-Hinweis. Sichtbare Bildlaufleisten in allen Listen. Programme: Programmliste nutzt den ganzen Platz, solange es keine Reste gibt."
+  "Version": "1.6.3",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-1.6.3.zip",
+  "Sha256": "F24483B6794433AC7CDD4A595BD6A7EB6C3A3F579AC580DC1A40EF1A7AC4E7BE",
+  "Notes": "Behebt den Startfehler »Der Wert darf nicht NULL sein (element)« aus Version 1.6.2."
 }
