@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.4",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.4.zip",
-  "Sha256": "B2A10ACD97CAE01A0B429CAE372A27806C71EF3821FAF794A747D7721F1CED46",
-  "Notes": "Zuverlässigere Updates: Gesperrte Dateien (z. B. während der Virenscanner sie prüft) werden länger abgewartet und einzeln ersetzt. Klappt es nicht, nennt TuneRig die betroffenen Dateien."
+  "Version": "2.0.5",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.5.zip",
+  "Sha256": "85AC7D81C312E7F79D084B24455C9AE27BF66365963B526FC2AC3B5913250674",
+  "Notes": "Update und Setup ersetzen gesperrte Dateien jetzt zuverlässiger (länger warten, Schreibschutz aufheben, notfalls umbenennen). Ein gesperrtes Symbol bricht die Installation nicht mehr ab. Die Versionsnummer wird erst geschrieben, wenn alles Wichtige kopiert ist."
 }
