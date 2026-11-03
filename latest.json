@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.0",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.0.zip",
-  "Sha256": "C83EFD1C686CD44AE74DCD11E10E0BD1E5C034171D15DE1802228247CD170DA2",
-  "Notes": "TuneRig 2.0: Neues Dashboard mit Systemzustand, »PC optimieren« mit einem Klick (Plan ansehen, abhaken, bestätigen), fünf Bereichsseiten mit Schaltern und Info-Symbolen statt langer Texte: Leistung, Speicherplatz, Treiber, Programme (Reste in drei Gruppen mit Prüfschritten), Overdrive. Die Expertenansicht bleibt erreichbar."
+  "Version": "2.0.1",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.1.zip",
+  "Sha256": "C28C826E6BB4F1634FEF012B51DDA54729425D6BFF4878931AF4859DFC3AEE7D",
+  "Notes": "Mehr Wahlfreiheit: Regulärer Check, Performance Boost, Overdrive und Alle Werkzeuge stehen wieder im Dashboard und oben in der Leiste. »PC optimieren« zeigt jetzt auch optionale und experimentelle Einstellungen sowie alle Aufräum-Bereiche zum Abhaken. Leistung: »Alle Empfehlungen einschalten«. Overdrive: Stufe auf einmal wählen."
 }
