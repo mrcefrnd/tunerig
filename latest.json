@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.7",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.7.zip",
-  "Sha256": "444A8F9C03ACF4D49FF52F5CC10A905C1081C1B39CEAE3E972252340E0F3ADE0",
-  "Notes": "Reste: keine Haken mehr. Jede Zeile sagt klar »Wird gelöscht« oder »Bleibt« und hat den passenden Befehl daneben (Behalten / Doch löschen). Empfohlenes wird gelöscht, alles andere bleibt – ein Klick unten genügt."
+  "Version": "2.0.8",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.8.zip",
+  "Sha256": "5FC11EE3C1EFE4D2EC1059183B3B3FCA05A45E4A4B0DEC5674913DC6C754BE45",
+  "Notes": "Reste: Jeder Eintrag sagt jetzt in zwei Zeilen, woher er stammt und warum er weg darf. Pfad und Prüfschritte gibt es auf Klick."
 }
