@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.6",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.6.zip",
-  "Sha256": "A59D2CF298EF7B45B16215BA0F9F0F521318DBE4D78C30E56B3132CEC37B6ADB",
-  "Notes": "Reste viel übersichtlicher: oben eine klare Empfehlung, je Programm eine Zeile, Details und Prüfschritte auf Klick, nicht Empfohlenes eingeklappt mit Grund. Desktop- und Startmenü-Verknüpfungen bekommen das neue dunkle Symbol."
+  "Version": "2.0.7",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.7.zip",
+  "Sha256": "444A8F9C03ACF4D49FF52F5CC10A905C1081C1B39CEAE3E972252340E0F3ADE0",
+  "Notes": "Reste: keine Haken mehr. Jede Zeile sagt klar »Wird gelöscht« oder »Bleibt« und hat den passenden Befehl daneben (Behalten / Doch löschen). Empfohlenes wird gelöscht, alles andere bleibt – ein Klick unten genügt."
 }
