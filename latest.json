@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.1",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.1.zip",
-  "Sha256": "C28C826E6BB4F1634FEF012B51DDA54729425D6BFF4878931AF4859DFC3AEE7D",
-  "Notes": "Mehr Wahlfreiheit: Regulärer Check, Performance Boost, Overdrive und Alle Werkzeuge stehen wieder im Dashboard und oben in der Leiste. »PC optimieren« zeigt jetzt auch optionale und experimentelle Einstellungen sowie alle Aufräum-Bereiche zum Abhaken. Leistung: »Alle Empfehlungen einschalten«. Overdrive: Stufe auf einmal wählen."
+  "Version": "2.0.2",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.2.zip",
+  "Sha256": "268315E6972432DF618DF176532D35C7DBC6FB4AF2364252CA1180BB11590A90",
+  "Notes": "Behebt den Fehler »Ausnahme beim Festlegen von Orientation« auf der Seite Speicherplatz. Enthält alle Neuerungen von 2.0.1: die geführten Checks im Dashboard und oben in der Leiste, mehr Auswahl bei »PC optimieren«, »Alle Empfehlungen einschalten« und Overdrive-Stufen auf einmal wählen."
 }
