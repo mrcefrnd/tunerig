@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.2",
-  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.2.zip",
-  "Sha256": "268315E6972432DF618DF176532D35C7DBC6FB4AF2364252CA1180BB11590A90",
-  "Notes": "Behebt den Fehler »Ausnahme beim Festlegen von Orientation« auf der Seite Speicherplatz. Enthält alle Neuerungen von 2.0.1: die geführten Checks im Dashboard und oben in der Leiste, mehr Auswahl bei »PC optimieren«, »Alle Empfehlungen einschalten« und Overdrive-Stufen auf einmal wählen."
+  "Version": "2.0.3",
+  "Url": "https://raw.githubusercontent.com/mrcefrnd/tunerig/main/download/TuneRig-2.0.3.zip",
+  "Sha256": "A05B998B4175261F36B3A8702B83D3ABE04D20DA5B72AD130DC098DCF0C9DDA1",
+  "Notes": "Neues dunkles App-Icon. Sicherungen sind jetzt unauffälliger unten rechts in der Statusleiste und im Dashboard bei »Letzte Sicherung«."
 }
